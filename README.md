@@ -1,1 +1,1 @@
-# Crop-Prediction-Using-CNN
+# Crop-Prediction
